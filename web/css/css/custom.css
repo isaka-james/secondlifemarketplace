@@ -1,0 +1,65 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../../img/img/login.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    height: 100vh;
+}
+/*login form*/
+#formLogin{
+    background-color: white;
+    border-radius: 8px;
+    padding: 30px;
+}
+.form
+{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+#login{
+    background-color: darkorange;
+    border: none;
+}
+
+/*registration form*/
+#regForm{
+    background-color: white;
+    border-radius: 8px;
+    padding: 30px;
+    min-width: auto;
+    
+}
+/*post product form*/
+
+
+
+
+/* The invalid form */
+.invalid{
+    background-color: red;
+    color: white;
+    font-weight:  700;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    opacity: 50%;
+}
+
+
+.success{
+    background-color: green !important;
+    color: white;
+    font-weight:  700;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    opacity: 50%;
+    
+}

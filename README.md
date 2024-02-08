@@ -30,8 +30,10 @@ SecondLife Marketplace is a web application that allows users to post their used
 Follow these steps to set up the SecondLife Marketplace web app locally:
 
 1. **Clone the Repository:**
-  Because of storage/limitations of **github** I am unable to commit the project here on github. The project is zipped here 
-  - [Google Drive](https://drive.google.com/file/d/1HJeD25srKZ0Tsw_qIyRK8ylagz8Om4Bh/view?usp=drive_link) 
+```bash
+git clone https://github.com/reprogamaco/secondlifemarketplace.git
+cd secondlifemarketplace
+```
 
 2. **Enviroment**
   The enviroment used was **XAMPP Control Panel v3.3.0**,**Apache NetBeans IDE 19** in windows 11.( *RAM12 & RAM4 and core i5 worked fine* )

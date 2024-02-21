@@ -31,7 +31,7 @@ Follow these steps to set up the SecondLife Marketplace web app locally:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/reprogamaco/secondlifemarketplace.git
+git clone https://github.com/isaka-james/secondlifemarketplace.git
 cd secondlifemarketplace
 ```
 

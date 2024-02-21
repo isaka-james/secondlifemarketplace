@@ -1,5 +1,5 @@
 # SecondLife Marketplace Web App
-<img src="https://komarev.com/ghpvc/?username=reprogamaco&label=Project%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=secondlifemarketplace&label=secondlicemarketplace&color=0e75b6&style=flat" alt="Profile Views" />
 
 ![SecondLife Marketplace Logo](logo.png)
 
